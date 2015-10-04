@@ -1,0 +1,15 @@
+logo: https://hubot.github.com/assets/images/layout/hubot-avatar@2x.png
+delay: 5
+branch:
+  - master
+stats:
+  - url: http://87.106.60.5:8080/hubot/statistics/name
+    icon: octicon octicon-hubot
+  - url: http://87.106.60.5:8080/hubot/statistics/commands
+    icon: octicon octicon-terminal
+  - url: http://87.106.60.5:8080/hubot/statistics/online
+    icon: octicon octicon-clock
+  - url: http://87.106.60.5:8080/hubot/statistics/version
+    icon: octicon octicon-tag
+  - url: http://87.106.60.5:8080/hubot/statistics/adapter
+    icon: octicon octicon-plug
