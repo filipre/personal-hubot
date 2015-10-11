@@ -10,5 +10,6 @@
   "hubot-shipit",
   "hubot-kvv",
   "hubot-events",
-  "hubot-statistics"
+  "hubot-statistics",
+  "hubot-observe"
 ]
